@@ -6,6 +6,11 @@
 /**
  *
  * @author Hp
+ * Date: 20 Feb 2024
+ * Name: Gurkamal Singh
+ * Course: Computer Programming
+ * Semester: Third
+ * 
  */
 
     import java.util.Scanner;
